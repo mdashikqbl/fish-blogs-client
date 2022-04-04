@@ -1,0 +1,17 @@
+ .style{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(105, 103, 100);
+        color: #fff;
+        border-radius: 5px;
+}
+.style h1{
+    margin-top: 50px;
+  
+}
+.not-found{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
