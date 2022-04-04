@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Fish Stew with Rouille",
+    "img": "https://media.istockphoto.com/photos/portrait-of-handsome-smiling-young-man-with-crossed-arms-picture-id1200677760?k=20&m=1200677760&s=612x612&w=0&h=JCqytPoHb6bQqU9bq6gsWT2EX1G5chlW5aNK81Kh4Lg=",
+    "Rating":4.5,
+    "Customer":	"Janice",
+    "review":"We love fish but no matter what I never found a perfect recipe breading,Fish Fry. Wow! Our next fish fry was so yummy!"
+  },
+  {
+    "id": 2,
+    "name": "Portuguese fish",
+    "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "Rating": 5,
+    "Customer":"A. Hansen",
+    "review":"First time trying this mix. Very tasty with both fish.I am really  liking how quick and easy it is to use"
+    
+  },
+  {
+    "id": 3,
+    "name": "Cajun spiced fish tacos",
+    "img": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "Rating": 4.5,
+     "Customer":"Habib Khan",
+    "review":"Perfect fried fish every time! Crispy, golden, great flavor! I have used it on walleye, white bass, catfish and sauger!"
+  },
+  {
+    "id": 4,
+    "name": "Recheado Masala Fish",
+    "img": "https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6",
+    "Rating":5,
+    "Customer":"Mosh Jons",
+     "review":"Delicious. I've gotta catch more fish now. Everybody loves this stuff. We  a fish fry for 80 people that fell through."
+  },
+  {
+    "id": 5,
+    "name": "Saltfish and Ackee",
+    "img": "https://media.istockphoto.com/photos/portrait-of-a-handsome-black-man-picture-id1289461335?b=1&k=20&m=1289461335&s=170667a&w=0&h=7L30Sh0R-0JXjgqFnxupL9msH5idzcz0xZUAMB9hY_k=",
+    "Rating": 5,
+    "Customer":"Ali Khan",
+    "review":"We used it as a rub and as a batter. Dry rub was a little too crunchy for us. Seasoning doesn't overpower the fish flavor."
+    
+  },
+  {
+    "id": 6,
+    "name": "Three Fish Pie",
+    "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.2.946239694.1639094400",
+    "Rating":4,
+    "Customer":"Json roy",
+    "review":"Adds a little excellent flavor to all meats. I use it on fish, pork and chicken. Browns well. Sticks well to meat. A little sprinkle is all I use."
+    
+  }
+
+]
